@@ -1,0 +1,21 @@
+- uuid: 4813b756-cca7-4f49-a6b6-9a31ad3ebcf4
+  type: MultipleChoice
+  content: What is the primary function of the Arbitrum DAO?
+  hint: ''
+  explanation: >-
+    The Arbitrum DAO is a collective that governs the Arbitrum ecosystem,
+    enabling $ARB token holders to shape the ecosystem through proposals and
+    voting.
+  answerKeys:
+    - 1cc8dafc
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: To operate as a standalone blockchain
+      key: A
+    - content: To govern the Arbitrum ecosystem
+      key: 1cc8dafc
+    - content: To replace Ethereum's governance structure
+      key: 4b420d56
+    - content: To issue new cryptocurrencies
+      key: 0f7c1ebb
