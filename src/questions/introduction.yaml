@@ -13,14 +13,14 @@
   subTopics: []
   difficultyLevel: Medium
   choices:
-    - content: Eliminating any form of governance
-      key: A
-    - content: Relying solely on traditional corporate governance structures
-      key: 544b4cc8
-    - content: Maintaining centralized control by a small group
-      key: ddd8d0ad
-    - content: Shifting decision-making power to a community-wide system
-      key: 695dd9de
+    - key: A
+      content: Eliminating any form of governance
+    - key: 544b4cc8
+      content: Relying solely on traditional corporate governance structures
+    - key: ddd8d0ad
+      content: Maintaining centralized control by a small group
+    - key: 695dd9de
+      content: Shifting decision-making power to a community-wide system
 - uuid: aa69d68a-a684-43f0-9df6-89abc240dbc8
   type: MultipleChoice
   content: >-
