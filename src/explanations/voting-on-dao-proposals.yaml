@@ -1,0 +1,44 @@
+- key: voting-mechanisms
+  title: 'Voting Mechanisms '
+  shortTitle: Voting
+  details: >-
+    The voting power of an individual is proportional to the number of $ARB
+    tokens they possess. When casting votes, members are encouraged to assess
+    proposals based on these values, ensuring that decisions align with the
+    DAO's overarching goals. In the Arbitrum DAO, the voting process is designed
+    to facilitate community-driven governance through four distinct types of
+    votes:
+
+
+    ### Temperature Check
+
+    A temperature check is an initial voting step within the Arbitrum DAO
+    designed to measure community interest in a proposed idea or action before
+    it advances through the governance process. This preliminary assessment is
+    conducted on the Snapshot platform, a decentralized voting interface. To
+    participate in a temperature check, $ARB token holders must possess or
+    represent at least 0.01% of the total votable tokens. The purpose of this
+    step is to ensure that the community sufficiently supports a proposal before
+    dedicating more resources to further discussion and voting. It acts as a
+    community pulse-taking measure, enabling the DAO to filter out proposals
+    that lack substantial backing, thus streamlining the governance process to
+    focus on initiatives with broader interest.
+
+
+    <div align="center">
+      <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/arbitrum-university/Guide/voting_on_dao_proposals_arbitrum_university_711/1701358687643_voting_mechanism.png"/>
+    </div>
+
+
+    ### On-chain Vote
+
+    An on-chain vote in the Arbitrum DAO occurs after a proposal passes the
+    preliminary temperature check. This vote is conducted on the blockchain via
+    Tally, a governance platform, and can only be initiated by $ARB token
+    holders with at least 1,000,000 votable tokens. For a proposal to pass, it
+    must receive affirmative votes from more than 50% of the voting
+    participants. Additionally, constitutional changes require support from at
+    least 5% of all tokens, while non-constitutional changes need 3%. These
+    specifics ensure that only proposals with substantial community backing are
+    ratified, reflecting the DAO's commitment to a democratic and transparent
+    decision-making process.
