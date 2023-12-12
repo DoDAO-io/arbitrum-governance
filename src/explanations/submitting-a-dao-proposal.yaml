@@ -74,3 +74,110 @@
     comprehensive, and aligned with the community's expectations, increasing its
     chances of being favorably received. In the diagram below, find the outline
     of a dummy proposal for more reference.
+- key: submitting-proposals
+  shortTitle: Submissions
+  details: >-
+    Follow along this step to understand how to submit the DAO proposals.
+
+
+    ## Conduct a formal temperature check with a Snapshot poll
+
+    Here are the steps to conduct a formal temperature check with a Snapshot
+    poll for the Arbitrum DAO:
+
+
+    ### Step 1: Post on the DAO Governance Forum
+
+    Draft your proposal, ensuring it aligns with the Arbitrum DAO's goals and
+    format guidelines. Go to the Arbitrum DAO governance forum. Create a new
+    post and use the provided template to structure your proposal. Feel free to
+    add additional context to the template to better explain your proposal.
+
+
+    ### Step 2: Create a Snapshot Poll
+
+    When your proposal is ready for a temperature check, navigate to the
+    Snapshot platform. Connect your Ethereum wallet to Snapshot. Access the
+    Arbitrum DAO Snapshot space. Set up a new poll and link it to your forum
+    post. The poll should be configured to last for one week and use a simple
+    majority to decide its outcome.
+
+
+    ### Step 3: Engage in Discussion
+
+    Once the poll is created, return to your forum post. Update your post with a
+    link to the Snapshot poll so the community can participate. Allow the
+    community at least one week to discuss, debate, and vote on your proposal.
+    Actively engage with the community and consider their feedback to refine
+    your proposal.
+
+
+    ### Step 4: Review the Results
+
+    If the temperature check does not pass, do not proceed to an on-chain vote.
+    Instead, use the feedback to revise your proposal and address community
+    concerns in the forum. If the temperature check passes, you can prepare for
+    the on-chain voting process. Incorporate any feedback from the forum and
+    temperature check discussions into your proposal.
+
+
+    ### Step 5: Proceed to On-chain Voting
+
+    With a successful temperature check, move on to the on-chain vote using
+    Tally. Ensure all relevant feedback has been integrated into the final
+    proposal.
+
+
+    <div align="center">
+      <img style="max-height:700px;margin-bottom:50px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/arbitrum-university/Guide/submitting_a_dao_proposal_arbitrum_university_385/1701368318209_submitting_proposals.png"/>
+    </div>
+
+
+    ## Submit your on-chain proposal using Tally
+
+    Here are the steps to submit your on-chain proposal using Tally for the
+    Arbitrum DAO:
+
+
+    ### Step 1: Meet the Token Requirement
+
+    Ensure your wallet contains at least 1,000,000 $ARB tokens, which is
+    approximately 0.1% of votable tokens. Log into the Tally website with the
+    wallet that holds your $ARB tokens. Go to the "explore DAOs" section or
+    select "My DAOs" within your Tally profile. Locate and select the Arbitrum
+    DAO's page.
+
+
+    ### Step 2: Select the Governor
+
+    Click on the "Create new proposal" button. Decide which governor you are
+    addressing:
+         - **Arbitrum Core**: For Constitutional Proposals.
+         - **Arbitrum Treasury**: For non-Constitutional Proposals.
+
+    ### Step 3: Preview and Submit
+
+    Name your proposal and provide a detailed description. Add a preview image
+    if you wish (this is optional). Verify you are submitting to the correct DAO
+    page on Tally. Define the actions that will be executed if the proposal is
+    passed, such as transferring funds to a specific address. Review your
+    proposal thoroughly. You can save it as a draft or submit it on-chain.
+
+
+    ### Step 4: Voting Conditions for Passage
+
+    A proposal is considered successful if it meets two conditions:
+         - It receives more votes in favor than against.
+         - It achieves a minimum favorable vote percentage of the total votable tokens:
+           - 5% for a Constitutional AIP.
+           - 3% for a non-Constitutional AIP.
+
+    ### Step 5: Stay Engaged and Seek Feedback
+
+    If your proposal passes, celebrate your success! The actions outlined in
+    your proposal will be executed on-chain after the specified delay. If your
+    proposal fails, but you believe it has potential after revision, gather
+    feedback and prepare to resubmit. As the DAO and its governance processes
+    are dynamic and evolving, stay active on the Arbitrum DAO governance forum
+    or Discord to discuss your proposal and receive input from the community.
+  title: 'Submitting Proposals '
