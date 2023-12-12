@@ -1,19 +1,24 @@
 {
   "key": "arbitrum-governance",
   "title": "Arbitrum Governance",
-  "summary": "This is a course template\n",
-  "details": "## Coming Soon",
+  "summary": "This is a course provides insights on Arbitrum Governance, where we delve into the complexities and innovations of governing a cutting-edge layer-2 blockchain protocol. Arbitrum, known for its significant role in scaling Ethereum, presents unique governance challenges and opportunities that are crucial to understand in the rapidly evolving world of decentralized finance and blockchain technology.\n\nIn this course, we will explore the foundational aspects of governance within the Arbitrum ecosystem. You will learn about the key stakeholders involved, including developers, validators, and users, and how their roles and responsibilities shape the governance model. We will examine the mechanisms of decision-making processes, and how governance in Arbitrum impacts the wider Ethereum network.\n\nThis course aims to provide a comprehensive understanding of decentralized governance. You will gain insights into the challenges of governing a layer-2 solution, the balance between decentralization and efficiency, and the ways in which community participation and stakeholder interests are managed.\n\nThis course will equip you with the knowledge to critically assess the governance models in blockchain protocols like Arbitrum and understand their implications for the future of decentralized systems. Whether you're aiming to contribute to the governance process or simply seeking to understand the dynamics of blockchain governance, this course is your gateway to mastering the complexities of Arbitrum Governance. Let's embark on this enriching learning journey together!\n",
+  "details": "",
   "duration": "30 mins - 1 hour",
   "highlights": [
-    "Introduction"
+    "Introduction",
+    "Arbitrum DAO",
+    "Security Council",
+    "Voting on DAO Proposals",
+    "Delegation",
+    "Submitting a DAO Proposal",
+    "Foundation Grants"
   ],
-  "publishStatus": "Draft",
+  "publishStatus": "Live",
   "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/courses/DoDAO/CourseIcons/audit_and_monitoring.png",
   "courseAdmins": [
     "0x34d014758297c00fea49935fce172677904d51ef",
     "0x2a6af0619be90d129ab0d70c10e25c097b6ec67d"
   ],
-  "coursePassContent": "Pass content of Course !!!!!!!!!!",
   "topicConfig": {
     "showExplanations": true,
     "showHints": true
