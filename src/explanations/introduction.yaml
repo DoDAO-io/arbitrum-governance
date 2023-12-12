@@ -79,3 +79,78 @@
     place: users have the opportunity to exit the system with their assets if
     they disagree with the new direction. This system ensures that power is
     balanced and the community has a say in the future of Arbitrum.
+- key: security-council
+  shortTitle: decisions
+  details: >-
+    ## Features of Security Council
+
+    The Security Council's dual capacity for immediate action in emergencies and
+    methodical upgrades in non-critical situations ensures the network's
+    stability and responsiveness to threats, all while remaining accountable to
+    the Arbitrum DAO's governance structure.
+
+
+    ### Emergency Protocol Upgrades
+
+
+    The Security Council can swiftly implement protocol upgrades in emergencies,
+    bypassing the standard governance process. Immediate action in case of
+    critical vulnerabilities, without publicizing sensitive information in the
+    DAO's governance forum. Empowered to act directly and expediently to apply
+    urgent fixes, safeguarding the protocol's integrity.
+
+
+    ### Governance and Oversight
+
+
+    The Security Council is obliged to adhere to the Arbitrum DAO Constitution
+    and to provide transparency reports post-action. Members are elected by the
+    DAO through semi-annual elections, ensuring that the council acts in the
+    network's best interests.
+
+
+    <div align="center">
+      <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/arbitrum-university/Guide/arbitrum_governance_arbitrum_university_791/1701279299538_features_of%20council.png"/>
+    </div>
+
+
+    ### Routine Upgrades
+
+
+    Non-critical updates such as software maintenance and minor improvements.
+    These upgrades are subject to a delay period, allowing users the choice to
+    withdraw if they disagree with the changes.
+
+
+    ### Resources
+
+
+    Detailed information about the Security Council's operations and guidelines
+    can be found in the Security Council concept doc. The formal
+    responsibilities and limits of the Security Council are outlined in The
+    Constitution of the Arbitrum DAO. 
+
+
+    ## Way forward 
+
+    The launch of Arbitrum's governance equips the community with two key
+    mechanisms: a decentralized governance model and a swift, controlled upgrade
+    path for emergency situations. Looking ahead, the community faces pivotal
+    questions about the evolution of this system:
+
+
+    - Is it possible to achieve even greater decentralization in the governance
+    process?
+
+    - What steps can be taken to reduce or even remove the Security Council's
+    authority?
+
+
+    Finding answers to these questions will require ongoing, robust discussions
+    as Arbitrum develops and as perceptions of decentralization's risks and
+    benefits evolve. Importantly, the Arbitrum governance system has full
+    authority over the protocol's future, including the governance model itself.
+    This means that the future shape of Arbitrum, including changes to how it is
+    governed, rests with the Arbitrum community, ensuring that the network's
+    trajectory aligns with the collective vision and values of its stakeholders.
+  title: Security Council
