@@ -370,7 +370,57 @@ topics:
     explanations: security-council.yaml
   - key: voting-on-dao-proposals
     title: Voting on DAO Proposals
-    details: akjshdlaihcddaiuc.dscik
+    details: >-
+      ## Voting in Arbitrum DAO
+
+      Voting in the Arbitrum DAO represents a critical function in the
+      decentralized decision-making process. It is the means by which $ARB
+      governance token holders can have their say in the direction of the DAO's
+      actions, from proposing amendments to the DAO's Constitution to deciding
+      on the allocation of funds for various projects. This democratic approach
+      is fundamental to the decentralized ethos that underpins the Arbitrum
+      ecosystem, ensuring that all decisions reflect the collective will of the
+      community rather than the desires of a centralized authority.
+
+
+      <div align="center">
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/arbitrum-university/Guide/voting_on_dao_proposals_arbitrum_university_711/1701355494876_voting_on%20dao.png"/>
+      </div>
+
+
+      ## Importance of Voting
+
+      The necessity of voting lies in several key areas:
+
+
+      1. **Decentralization**: Voting is the cornerstone of decentralized
+      governance. By enabling token holders to vote on proposals, the DAO
+      ensures that the power dynamics remain balanced and distributed across its
+      member base, rather than being concentrated in the hands of a few.
+
+
+      2. **Consensus Building**: The voting process facilitates a fair and
+      transparent method for reaching consensus on important issues. It allows
+      for diverse opinions to be heard and considered, ultimately leading to
+      decisions that are in the best interest of the entire DAO and its
+      underlying technologies.
+
+
+      <div align="center">
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/arbitrum-university/Guide/voting_on_dao_proposals_arbitrum_university_711/1701357701152_imp_of%20voting.png"/>
+      </div>
+
+
+      3. **Responsiveness**: Voting ensures that the DAO can respond swiftly to
+      new developments and challenges. As the needs and priorities of the DAO
+      evolve, voting allows for the agile adaptation of strategies and the
+      implementation of new initiatives.
+
+
+      4. **Engagement and Ownership**: By participating in votes, members are
+      actively engaging with the DAO's governance. This not only fosters a sense
+      of community but also gives members a sense of ownership over the DAO's
+      future, as they are directly involved in shaping it.
   - key: delegation
     title: Delegation
     details: q.sdjbws.dkhnw.jkedhnwekj
