@@ -367,6 +367,7 @@ topics:
       | Yoav Weiss          | 0x475816ca2a31D601B4e336f5c2418A67978aBf09 |
 
       | Patricio Worthalter | 0xf6B6F07862A02C85628B3A9688beae07fEA9C863 |
+    explanations: security-council.yaml
   - key: voting-on-dao-proposals
     title: Voting on DAO Proposals
     details: akjshdlaihcddaiuc.dscik
