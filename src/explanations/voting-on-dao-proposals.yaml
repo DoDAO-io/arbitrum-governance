@@ -126,3 +126,46 @@
     favor, while non-Constitutional AIPs need at least 3% of votable tokens to
     be cast in favor for approval. 
   title: Voting on Proposals
+- key: delegating-voting-powers
+  shortTitle: Delegation
+  details: >-
+    ## How to Delegate Voting Power?
+
+    Delegating your voting power within the Arbitrum DAO allows you to have a
+    say in its governance, even if you're unable to participate directly. Here
+    are the step to delegating your voting power:
+
+
+    ### Step 1: Assess Potential Delegates
+
+    Consider the delegate's alignment with the DAO's values, their track record,
+    community engagement, responsiveness, and technical expertise. Then go to
+    the Arbitrum DAO delegation page on Tally, the platform used by Arbitrum DAO
+    for governance. Click on "Connect Wallet" on Tally and choose the wallet
+    address that holds your $ARB tokens (e.g., MetaMask).
+
+
+    <div align="center">
+      <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/arbitrum-university/Guide/voting_on_dao_proposals_arbitrum_university_711/1700068848597_screenshot_2023-11-15%20at%2010.18.30%20pm.png"/>
+    </div>
+
+
+    ### Step 2: Choose a Delegate
+
+    Select the "Delegate" tab in the top menu on the Arbitrum DAO page on Tally.
+    Use the search bar to find a delegate by their Ethereum address or name.
+    Click on the "Delegate" button next to your chosen delegate's name.
+
+
+    <div align="center">
+      <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/arbitrum-university/Guide/voting_on_dao_proposals_arbitrum_university_711/1700068900397_screenshot_2023-11-15%20at%2010.18.00%20pm.png"/>
+    </div>
+
+
+    ### Step 3: Confirm the Transaction
+
+    A pop-up window will appear for confirmation. Click on the "Delegate" button
+    there and confirm the transaction on your wallet. Wait for the Arbitrum One
+    network to confirm the transaction. Check the "Votes" tab on Tally to ensure
+    your delegation to the chosen delegate is listed.
+  title: Delegating Voting Powers
