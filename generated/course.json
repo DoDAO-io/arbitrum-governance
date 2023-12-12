@@ -103,6 +103,36 @@
               "key": "689066ad"
             }
           ]
+        },
+        {
+          "uuid": "60a9affb-409a-41ca-80ca-dfea32f5b97a",
+          "type": "MultipleChoice",
+          "content": "What role do governance tokens play in decentralized governance models?",
+          "hint": "",
+          "explanation": "Governance tokens in decentralized governance models indicate membership in the DAO and provide token holders with the eligibility to vote on proposals affecting the network's future.",
+          "answerKeys": [
+            "d2071a9f"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "They are used as a form of currency for transactions",
+              "key": "A"
+            },
+            {
+              "content": "They indicate membership in the DAO and provide voting rights",
+              "key": "d2071a9f"
+            },
+            {
+              "content": "They eliminate the need for smart contracts",
+              "key": "899f4448"
+            },
+            {
+              "content": "They centralize power in the hands of token creators",
+              "key": "727dd930"
+            }
+          ]
         }
       ],
       "readings": [],
