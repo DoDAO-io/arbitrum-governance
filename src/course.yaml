@@ -1,6 +1,20 @@
 title: Arbitrum Governance
 key: arbitrum-governance
 summary: >
+  This course takes a deeper dive into the governance structures of Arbitrum,
+  voting mechanisms for decision making and delegation of voting rights.
+highlights:
+  - Introduction
+  - Arbitrum DAO
+  - Security Council
+  - Voting on DAO Proposals
+  - Delegation
+  - Submitting a DAO Proposal
+  - Foundation Grants
+publishStatus: Live
+thumbnail: >-
+  https://d31h13bdjwgzxs.cloudfront.net/courses/DoDAO/CourseIcons/audit_and_monitoring.png
+details: >
   This is a course that provides insights on Arbitrum Governance, where we delve
   into the complexities and innovations of governing a cutting-edge layer-2
   blockchain protocol. Arbitrum, known for its significant role in scaling
@@ -28,20 +42,7 @@ summary: >
   implications for the future of decentralized systems. Whether you're aiming to
   contribute to the governance process or simply seeking to understand the
   dynamics of blockchain governance, this course is your gateway to mastering
-  the complexities of Arbitrum Governance. Let's embark on this enriching
-  learning journey together!
-highlights:
-  - Introduction
-  - Arbitrum DAO
-  - Security Council
-  - Voting on DAO Proposals
-  - Delegation
-  - Submitting a DAO Proposal
-  - Foundation Grants
-publishStatus: Live
-thumbnail: >-
-  https://d31h13bdjwgzxs.cloudfront.net/courses/DoDAO/CourseIcons/audit_and_monitoring.png
-details: ''
+  the complexities of Arbitrum Governance. 
 duration: 30 mins - 1 hour
 topics:
   - key: introduction
