@@ -1,0 +1,52 @@
+- key: working-of-arbitrum-governance
+  title: Working of Arbitrum Governance
+  shortTitle: Working
+  details: >-
+    ## Governance Structure
+
+    The governance framework of the Arbitrum Rollup protocol is structured
+    around the Arbitrum DAO and the Security Council:
+
+
+    ### Security Council
+
+    The Security Council consists of twelve members who are chosen through an
+    election process by the Arbitrum DAO. This group's primary responsibility is
+    to maintain the security and performance of Arbitrum, which includes the
+    authority to take urgent measures in extraordinary situations to protect the
+    network.
+
+
+    <div align="center">
+      <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/arbitrum-university/Guide/arbitrum_dao_arbitrum_university_613/1701283185392_structures.png"/>
+    </div>
+
+
+    ### Arbitrum DAO
+
+    On the other hand, the Arbitrum DAO represents the collective of $ARB token
+    holders across the globe, along with their appointed delegates. It holds the
+    overarching governance responsibilities for the Arbitrum ecosystem,
+    including the election and oversight of the Security Council. The DAO has
+    the power to shape the council's role through constitutional proposals,
+    which can redefine or revoke the council's authority if deemed necessary for
+    the community's interest.
+
+
+    ## Decision Making by Arbitrum Governance
+
+    The Arbitrum governance system holds the crucial role of deciding on
+    upgrades to the core contracts of Arbitrum chains that govern the network's
+    protocols. These upgrades can be driven by various motivations such as
+    performance enhancements, security fixes, or broader ecosystem improvements.
+
+    1. An upgrade could improve the system in some way, like increase its
+    decentralization or optimize its performance and lower fees.
+
+    2. An upgrade could fix a critical vulnerability.
+
+    3. An upgrade could address a non-critical decision that affects the
+    Arbitrum ecosystem at large.
+
+    4. The Arbitrum DAO is also responsible for authorization of the creation of
+    new L2 chains
