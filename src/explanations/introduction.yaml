@@ -1,0 +1,81 @@
+- key: balancing-power
+  title: Balancing Power
+  shortTitle: Decentralisation
+  details: >-
+    Decentralized governance distributes power among a broad community, ensuring
+    that no single entity has unchecked control and that decisions reflect the
+    collective will. This happens through the use of following principles:
+
+
+    ## Chain Ownership 
+
+    Arbitrum networks, such as Arbitrum One, employ the role of a "chain owner,"
+    who functions as the system administrator, overseeing updates and
+    modifications. This role isn't defined by the Arbitrum protocol itself but
+    is crucial for maintaining and enhancing the system. The chain owner has the
+    authority to adjust key parameters, halt transaction processing, and
+    crucially, upgrade the contracts that underpin the protocol.
+
+
+    Upgrades to an Arbitrum chain's core contracts are essential for various
+    reasons. They enable the implementation of planned enhancements and they
+    will continue to be necessary for future, unforeseen technological
+    developments. Moreover, they are critical for addressing any serious flaws
+    discovered in the code and for adapting to major updates on Ethereum. Given
+    the substantial impact these changes can have, the role of chain ownership
+    is significant and must be considered with the utmost seriousness within
+    Arbitrum's journey towards greater decentralization.
+
+
+    ## On-Chain Governance 
+
+    Layer 2 (L2) on-chain governance is essential due to the inherent
+    differences in how Layer 1 (L1) and Layer 2 protocols operate. Unlike
+    Ethereum, which is an L1 protocol where changes are made through a broad
+    social consensus—essentially, node operators choose to update their software
+    and the majority version becomes the 'real' Ethereum—L2 protocols like
+    Arbitrum are directly governed by smart contracts on the Ethereum
+    blockchain. For Arbitrum to implement upgrades, it's not enough to merely
+    update the node software; the underlying Ethereum smart contracts, which are
+    not governed by the social consensus of the Arbitrum community but by
+    Ethereum, must also be updated. This means that while Ethereum can evolve
+    through an informal, community-driven process, Arbitrum requires a formal
+    governance structure to authorize and enact changes.
+
+
+    <div align="center">
+      <img style="max-height:700px;margin-bottom:60px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/arbitrum-university/Guide/arbitrum_governance_arbitrum_university_791/1701278771993_balancing_powers.png"/>
+    </div>
+
+
+    Theoretically, it's possible for Ethereum to adjust its consensus rules to
+    allow L2 upgrades, a concept referred to as "enshrined rollups." However,
+    this is not a near-future prospect and would require extensive deliberation
+    within the Ethereum community, which is beyond the Arbitrum community's
+    control. Thus, the necessity for L2 on-chain governance emerges as the
+    practical solution for now, providing a structured pathway for upgrades and
+    ensuring that the power to modify the protocol doesn't reside with a
+    centralized owner but is distributed across the community. This governance
+    ensures decisions are transparent, verifiable, and aligned with the
+    collective interest of the network's stakeholders.
+
+
+    ## Decentralization using $ARB
+
+    The $ARB governance token facilitates decentralized decision-making within
+    the Arbitrum ecosystem. By distributing these tokens broadly, often through
+    a process called an airdrop, ownership and governance powers are shared
+    across a diverse group of stakeholders worldwide, forming what's known as
+    the Arbitrum DAO. This group of token holders, and those they designate to
+    vote on their behalf, has the collective authority to propose, discuss, vote
+    on, and implement changes to the protocol.
+
+
+    In this decentralized governance model, no single party has overarching
+    control. The process is designed to be inclusive and transparent, with the
+    DAO having the autonomy to manage the protocol's evolution. Smart contracts
+    ensure that the process is followed, allowing time for careful consideration
+    and voting on proposals. If a change is approved, there is a safeguard in
+    place: users have the opportunity to exit the system with their assets if
+    they disagree with the new direction. This system ensures that power is
+    balanced and the community has a say in the future of Arbitrum.
