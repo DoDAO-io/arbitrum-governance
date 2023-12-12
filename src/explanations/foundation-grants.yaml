@@ -92,3 +92,49 @@
     a literary genius, proper spelling and grammar, complete and coherent
     sentences, a professional tone, and direct responses to the prompts are all
     crucial for a favorable impression.
+- key: current-phase-categories
+  shortTitle: Topics
+  details: >-
+    The current phase of the Arbitrum Foundation Grant Program, as of July 2023,
+    focuses on fostering the development of decentralized applications (dApps)
+    and enhancing the infrastructure and tools that support these applications
+    within the Arbitrum ecosystem.
+
+
+    ## Decentralized Applications (dApps) across Arbitrum
+
+    Applications from all projects building dApps on Arbitrum, including those
+    on Arbitrum Nova, Arbitrum One, and Orbit are welcome. In addition projects
+    seeking innovative dApps in various sectors like DeFi, NFTs, gaming, social
+    platforms, DAOs, real-world asset tokenization, track and trace solutions,
+    and more are encouraged to apply.
+
+    ### Examples:
+      - **Gaming**: Games that encourage onboarding onto Arbitrum Nova and One, including all genres and supporting service providers.
+      - **DeFi**: Cutting-edge financial solutions like uncollateralized lending, stablecoins, asset management, insurance, derivatives trading, and related service providers.
+      - **NFT**: Innovations in dynamic, gamified, collectible NFTs, generative art, membership passes, and applications in music, sports, or finance.
+      - **DAOs**: Initiatives that promote community involvement and build upon existing DAOs within Arbitrum.
+      - **Social Platforms**: Decentralized social media and community engagement projects, creator platforms, fan engagement, and loyalty programs.
+
+    <div align="center">
+      <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/arbitrum-university/Guide/foundation_grants_arbitrum_university_884/1701430254176_categories.png"/>
+    </div>
+
+
+    ## Infrastructure and Tools
+
+    Applications from projects working on integrations and infrastructure to
+    connect the ecosystem through Web3 infrastructure are invited. The
+    Foundation encourages projects that include those tools that are built on
+    Arbitrum Nova, One, and Orbit.
+
+    ### Examples
+      - **User Interfaces Tooling and Infrastructure**: Tools that simplify technical blockchain activities, such as wallets, decentralized IDs, developer tools, DNS support, payment interfaces, and exchange support.
+      - **Backend Applications**: Developer infrastructure, high-performance indexing and analytics, storage solutions, privacy and security services, development studios, auditing tools, and related service providers.
+
+    These categories are designed to address the immediate needs of the Arbitrum
+    ecosystem by providing targeted support where it can significantly impact
+    growth and innovation. Applicants are encouraged to align their proposals
+    with these categories and demonstrate how their projects will contribute to
+    the overarching goals of the Arbitrum ecosystem.
+  title: Current Phase Categories
