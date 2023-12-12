@@ -56,6 +56,9 @@ topics:
       reliable, and that it will function as intended when deployed on a
       blockchain network.
 
+  - key: arbitrum-dao
+    title: Arbitrum DAO
+    details: jshdbjshdbl,scdsfcjhdcfh
 courseAdmins:
   - '0x34d014758297c00fea49935fce172677904d51ef'
   - '0x2a6af0619be90d129ab0d70c10e25c097b6ec67d'
