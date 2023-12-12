@@ -73,6 +73,36 @@
               "key": "695dd9de"
             }
           ]
+        },
+        {
+          "uuid": "aa69d68a-a684-43f0-9df6-89abc240dbc8",
+          "type": "MultipleChoice",
+          "content": "What does DAO formation in the context of progressive decentralization involve?",
+          "hint": "",
+          "explanation": "DAO formation in progressive decentralization involves creating entities like the Arbitrum DAO, which take over the governance of the network and operate based on established rules for democratic decision-making.",
+          "answerKeys": [
+            "A"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "Creating an entity to take over network governance ",
+              "key": "A"
+            },
+            {
+              "content": "Centralizing control in the hands of a few individuals",
+              "key": "859771f7"
+            },
+            {
+              "content": "Removing all forms of governance from the network",
+              "key": "cdebf32d"
+            },
+            {
+              "content": "Delegating decision-making power to external agencies",
+              "key": "689066ad"
+            }
+          ]
         }
       ],
       "readings": [],
