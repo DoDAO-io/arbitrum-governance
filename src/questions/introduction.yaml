@@ -36,11 +36,13 @@
   subTopics: []
   difficultyLevel: Medium
   choices:
-    - content: 'Creating an entity to take over network governance '
-      key: A
-    - content: Centralizing control in the hands of a few individuals
-      key: 859771f7
-    - content: Removing all forms of governance from the network
-      key: cdebf32d
-    - content: Delegating decision-making power to external agencies
-      key: 689066ad
+    - key: A
+      content: >-
+        Creating an entity to take over network governance and operate based on
+        established rules
+    - key: 859771f7
+      content: Centralizing control in the hands of a few individuals
+    - key: cdebf32d
+      content: Removing all forms of governance from the network
+    - key: 689066ad
+      content: Delegating decision-making power to external agencies
