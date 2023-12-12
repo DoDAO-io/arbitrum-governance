@@ -168,6 +168,7 @@ topics:
       needs.
 
     explanations: introduction.yaml
+    questions: introduction.yaml
   - key: arbitrum-dao
     title: Arbitrum DAO
     details: >-

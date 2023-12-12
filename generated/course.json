@@ -43,7 +43,38 @@
           "title": "Security Council"
         }
       ],
-      "questions": [],
+      "questions": [
+        {
+          "uuid": "5d66497a-3c8f-460f-9155-37a40068713d",
+          "type": "MultipleChoice",
+          "content": "What is the fundamental principle behind Web3 governance models like those in the Arbitrum ecosystem?",
+          "hint": "",
+          "explanation": "Web3 governance models, like those in the Arbitrum ecosystem, aim to distribute decision-making power among its community members, moving away from centralized models typical of traditional corporate governance.",
+          "answerKeys": [
+            "695dd9de"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "Eliminating any form of governance",
+              "key": "A"
+            },
+            {
+              "content": "Relying solely on traditional corporate governance structures",
+              "key": "544b4cc8"
+            },
+            {
+              "content": "Maintaining centralized control by a small group",
+              "key": "ddd8d0ad"
+            },
+            {
+              "content": "Shifting decision-making power to a community-wide system",
+              "key": "695dd9de"
+            }
+          ]
+        }
+      ],
       "readings": [],
       "summaries": []
     },
