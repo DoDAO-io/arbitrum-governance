@@ -494,7 +494,87 @@ topics:
     explanations: delegation.yaml
   - key: submitting-a-dao-proposal
     title: Submitting a DAO Proposal
-    details: d,cknsf.kajdfkawedfhjef
+    details: >-
+      ## Why Submit Proposal?
+
+      A DAO proposal is a formalized suggestion put forward by a member of a
+      Decentralized Autonomous Organization (DAO), which is a community-led
+      entity with no central authority, to make changes or take specific actions
+      within the organization's ecosystem. The need for such proposals arises
+      from the democratic nature of DAOs, where collective decision-making is
+      fundamental. Proposals enable innovation, improvements, and community
+      consensus on the evolution of the protocol or organization. They are
+      essential for the transparent and equitable governance of blockchain-based
+      projects, allowing stakeholders to vote and decide on the deployment of
+      shared resources and strategic directions.
+
+
+      <div align="center">
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/arbitrum-university/Guide/submitting_a_dao_proposal_arbitrum_university_385/1701363013716_submitting_a%20proposal.png"/>
+      </div>
+
+
+      ## Types of Proposals 
+
+      There are two distinct categories of AIPs (Arbitrum Improvement Proposals)
+      within the Arbitrum DAO framework:
+
+
+      ### Constitutional AIPs
+
+      These are significant proposals that have the potential to alter the
+      foundational rules and procedures of the Arbitrum ecosystem. They include
+      changes to the text of the Constitution or to AIP-1, which lays out the
+      initial rules for the governance process itself. They can also involve
+      installing or modifying software on any of the chains within the Arbitrum
+      network or taking actions that necessitate "chain owner" permissions,
+      which typically means they require a higher level of authority and
+      scrutiny due to their impact on the infrastructure and overall operation.
+
+
+      <div align="center">
+        <img style="max-height:300px;margin-bottom:20px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/arbitrum-university/Guide/submitting_a_dao_proposal_arbitrum_university_385/1701363083949_types_of%20aips.png"/>
+      </div>
+
+
+      ### Non-Constitutional AIPs
+
+      This type encompasses proposals that are less structural in nature and do
+      not involve amending the Constitution or the foundational governance
+      document (AIP-1). They are usually operational or administrative, such as
+      requests for funds or grants, or they may offer guidelines or disseminate
+      information to the community. Non-Constitutional AIPs are generally more
+      straightforward and often deal with the day-to-day governance and
+      maintenance of the community's projects and initiatives.
+
+
+      ## Prerequisites
+
+      To submit a proposal in a DAO the following prerequisites must be met:
+
+
+      ### For a Temperature Check Using Snapshot:
+
+
+      1. Possession of an Ethereum wallet address.
+
+      2. The Ethereum wallet must represent at least 0.01% of votable tokens
+      within the DAO's ecosystem.
+
+
+      ### For Submitting a Proposal On-chain Using Tally:
+
+
+      1. Possession of an Ethereum wallet address.
+
+      2. The Ethereum wallet must represent at least 1,000,000 tokens, which
+      equates to approximately 0.1% of votable tokens within the DAO's
+      ecosystem.
+
+
+      If you lack sufficient voting power, there is an option to delegate your
+      votes to a delegate with enough tokens. The delegate must have the
+      capability and willingness to create a proposal on your behalf.
   - key: foundation-grants
     title: Foundation Grants
     details: skla/dnklsnjmklwsdmcakldsn/m
