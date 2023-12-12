@@ -19,3 +19,25 @@
       key: 4b420d56
     - content: To issue new cryptocurrencies
       key: 0f7c1ebb
+- uuid: a484d11f-81eb-4cdc-bb58-12402506eaba
+  type: MultipleChoice
+  content: |-
+
+    What is the role of $ARB tokens in the Arbitrum DAO?
+  hint: ''
+  explanation: >-
+    $ARB tokens are a digital asset that grants holders the right to participate
+    in the governance of the Arbitrum ecosystem through the Arbitrum DAO.
+  answerKeys:
+    - f667db06
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: They are solely for investment purposes
+      key: A
+    - content: They have no specific role in governance
+      key: 237af3f5
+    - content: They grant holders the right to participate in governance
+      key: f667db06
+    - content: They are used as a standard currency for transactions
+      key: a04b693b
