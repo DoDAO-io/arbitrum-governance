@@ -42,3 +42,87 @@
     specifics ensure that only proposals with substantial community backing are
     ratified, reflecting the DAO's commitment to a democratic and transparent
     decision-making process.
+- key: voting-on-proposals
+  shortTitle: Proposals
+  details: >-
+    Active participation in the Arbitrum DAO means voting on member-submitted
+    governance proposals. Following it is briefed how to navigate the voting
+    process across different proposal stages:
+
+
+    ## How to vote for proposals in the "temperature check" stage
+
+    Here's how to participate in the temperature check stage for proposals in
+    the Arbitrum DAO:
+
+
+    ### Step 1: Review Proposals
+
+    Access the Arbitrum DAO governance forum online. Find and select the
+    proposal you are interested in. Read the proposal details and the community
+    discussion thread thoroughly. Provide your feedback and engage with other
+    community members in the discussion to refine the proposal.
+
+
+    <div align="center">
+      <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/arbitrum-university/Guide/voting_on_dao_proposals_arbitrum_university_711/1701358842819_temperature_check.png"/>
+    </div>
+
+
+    ### Step 2: Vote on Snapshot
+
+    Follow the link to the associated Snapshot poll provided in the forum
+    submission. On Snapshot, connect your Ethereum wallet that holds your $ARB
+    tokens. Navigate to the Arbitrum DAO space on Snapshot and locate the
+    specific proposal.
+
+
+    ### Step 3: Cast Your Vote
+
+    Proceed to vote on the proposal by following Snapshot's user interface
+    prompts. Remember, your participation as an $ARB token holder or delegate is
+    vital for the temperature check, as it helps determine whether the proposal
+    has enough community interest to proceed to the next stages of the voting
+    process.
+
+
+    ## How to vote for proposals in the "on-chain vote" stage
+
+    Here is how to vote on proposals in the on-chain vote stage using Tally for
+    the Arbitrum DAO:
+
+
+    ### Step 1: Navigate to DAOs
+
+    Visit the Tally website and log in using the wallet to which $ARB tokens
+    have been delegated. Make sure the delegation was done before the start of
+    the voting period. Once logged in, either go to the "explore DAOs" section
+    to find the Arbitrum DAO or click on "My DAOs" if you have already
+    interacted with the Arbitrum DAO on Tally.
+
+
+    ### Step 2: Find the Proposal
+
+    Choose between Constitutional or non-Constitutional AIPs (Arbitrum
+    Improvement Proposals) on the Arbitrum DAO's page. Within the selected
+    category, look for the proposal you wish to vote on.
+
+
+    <div align="center">
+      <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/arbitrum-university/Guide/voting_on_dao_proposals_arbitrum_university_711/1701358883417_on_chain%20voting.png"/>
+    </div>
+
+
+    ### Step 3: Vote
+
+    Click on the proposal to view the details, and then cast your vote in
+    accordance with your stance on the proposal. Ensure your vote counts by
+    participating within the specified voting period. For a proposal to pass the
+    on-chain vote stage:
+
+    - It must garner more affirmative votes than negative ones.
+
+    - Constitutional AIPs require at least 5% of all votable tokens to vote in
+    favor, while non-Constitutional AIPs need at least 3% of votable tokens to
+    be cast in favor for approval. 
+  title: Voting on Proposals
