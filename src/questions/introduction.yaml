@@ -67,3 +67,27 @@
       key: 899f4448
     - content: They centralize power in the hands of token creators
       key: 727dd930
+- uuid: e30543c1-c2ee-4975-91d9-9793e711ee73
+  type: MultipleChoice
+  content: >-
+    What is the purpose of the Security Council within the Arbitrum governance
+    system?
+  hint: ''
+  explanation: >-
+    The Security Council in the Arbitrum governance system serves a dual
+    purpose: it can swiftly implement protocol upgrades in emergencies and
+    oversee routine upgrades for non-critical issues, maintaining network
+    stability while being accountable to the broader governance structure.
+  answerKeys:
+    - bb3137fe
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: To eliminate all forms of decentralized governance
+      key: A
+    - content: To provide immediate action in emergencies and oversee routine upgrades
+      key: bb3137fe
+    - content: To centralize control over the entire network
+      key: ba3dade5
+    - content: To handle financial transactions within the network
+      key: 8559253c
