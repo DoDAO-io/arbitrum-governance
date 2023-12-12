@@ -58,3 +58,51 @@
     5. **Adaptive Governance:** By enabling the community to refresh the
     Council's composition, elections help the DAO adapt to evolving challenges
     and needs.
+- key: working-of-election
+  shortTitle: Working
+  details: >-
+    ## How elections work?
+
+    The working of the Security Council elections for the Arbitrum DAO is
+    explained below:
+
+
+    ### Members of the Council
+
+    The Security Council consists of 12 members split into two halves. Elections
+    to appoint members to each half occur biannually. While each member
+    typically serves for a full year, the initial group's terms were shortened
+    to account for the time between the first election outlined in the
+    Constitution and the actual start date of the DAO. The six candidates
+    receiving the most votes are elected to the Security Council. 
+
+
+    <div align="center">
+      <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/arbitrum-university/Guide/security_council_arbitrum_university_100/1701354370071_working_of%20elections.png"/>
+    </div>
+
+
+    ### Candidacy Requirements
+
+    The candidates must fulfill the following requirements to qualify for the
+    position in the security council:
+
+    1. Candidates must belong to the Arbitrum DAO.
+
+    2. Candidates need backing from holders of at least 0.2% of votable tokens.
+
+    4. No more than 3 members from the same organization can be elected.
+
+    5. Candidates must be free of conflicts that could hinder their ability to
+    prioritize the DAO's best interests.
+
+
+    ### Amendments to Election Rules
+
+    Election rules can be changed by DAO members, but not during an ongoing
+    election. A Security Council member can be removed if 10% of votable tokens
+    participate in a vote with 5/6 majority favoring removal, or if 9 Council
+    members vote for the removal. The Constitution is the ultimate authority on
+    the DAO’s rules, and any discrepancies between other documents and the
+    Constitution default to the latter’s precedence.
+  title: Working of Election
