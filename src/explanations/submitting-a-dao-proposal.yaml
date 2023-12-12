@@ -1,0 +1,76 @@
+- key: proposal-structure
+  title: 'Proposal Structure '
+  shortTitle: Structuring
+  details: >-
+    ## How to Structure the Proposal?
+
+    When composing an Arbitrum Improvement Proposal (AIP) for submission to the
+    Arbitrum DAO, it is encouraged to follow the structured format below to
+    enhance clarity and facilitate the decision-making process:
+
+
+    1. **Abstract**: Provide a concise summary of the AIP in two or three
+    sentences.
+
+
+    2. **Motivation**: Articulate the reasons for proposing the AIP and why it
+    is beneficial for the Arbitrum community.
+
+
+    3. **Rationale**: Explain how the AIP is in line with the mission and values
+    of the Arbitrum community.
+
+
+    4. **Key Terms** (Optional, but recommended): Define any specialized or new
+    terms used within the proposal that are specific to the context or industry.
+
+
+    5. **Specifications**: Offer an in-depth description of the platforms and
+    technologies that will be utilized. Discuss the reasoning behind design
+    choices, including alternative designs and precedents in other projects.
+
+
+    <div align="center">
+      <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/arbitrum-university/Guide/submitting_a_dao_proposal_arbitrum_university_385/1701364100110_structure.png"/>
+    </div>
+
+
+    6. **Steps to Implement**: Detail the actionable steps required to execute
+    the AIP, along with estimates of costs, manpower, and other necessary
+    resources. For AIPs involving third parties, include the necessary legal
+    documentation and procedures.
+
+
+    7. **Timeline**: Outline key dates, including the start date, milestones,
+    and expected completion date.
+
+
+    8. **Overall Cost**: Present a comprehensive cost analysis for implementing
+    the AIP, considering both one-time and ongoing expenses.
+
+
+    For AIPs that require resubmission after an initial rejection, include the
+    additional sections:
+
+
+    9. **Link to the Previous AIP**: Incorporate a reference to the initial
+    submission.
+
+
+    10. **Reasons for Non-Passage**: Summarize why the original AIP was not
+    approved.
+
+
+    11. **Changes Made**: Specify the modifications made to the AIP in response
+    to the community's feedback.
+
+
+    12. **Additional Information**: Provide more details on the intentions,
+    specifics, and implications to aid the community in understanding the
+    revisions, thereby improving the likelihood of acceptance. 
+
+
+    Adhering to these guidelines will help ensure that the proposal is clear,
+    comprehensive, and aligned with the community's expectations, increasing its
+    chances of being favorably received. In the diagram below, find the outline
+    of a dummy proposal for more reference.
