@@ -149,3 +149,30 @@
       key: 453adbfa
     - content: By mining new $ARB tokens
       key: 95eea7bd
+- uuid: 0f3b0b8d-50a0-4786-9e17-53da635bbadb
+  type: MultipleChoice
+  content: >-
+    What is a key aspect of the Arbitrum DAO's governance structure regarding
+    chain ownership?
+  hint: ''
+  explanation: >+
+    In the Arbitrum DAO's governance structure, the role of a chain owner is
+    significant for overseeing updates and modifications to the protocol,
+    crucial for maintaining and enhancing the system.
+
+
+
+
+  answerKeys:
+    - '84656581'
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: It allows any user to modify the protocol at will
+      key: A
+    - content: It is managed by a centralized authority without community input
+      key: cee85286
+    - content: The chain owner oversees key protocol updates and modifications
+      key: '84656581'
+    - content: Chain ownership is an honorary title with no real responsibilities
+      key: 5358b646
