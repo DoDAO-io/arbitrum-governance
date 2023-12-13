@@ -1198,6 +1198,36 @@
               "key": "7f27e895"
             }
           ]
+        },
+        {
+          "uuid": "21f1db5e-c210-4a4b-bcbf-78a461dc7b96",
+          "type": "MultipleChoice",
+          "content": "What is required for a temperature check using Snapshot in the Arbitrum DAO?",
+          "hint": "",
+          "explanation": "To conduct a temperature check using Snapshot, the Ethereum wallet must represent at least 0.01% of the votable tokens within the DAO's ecosystem.",
+          "answerKeys": [
+            "A"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "Holding at least 0.01% of votable tokens",
+              "key": "A"
+            },
+            {
+              "content": "Approval from the DAO founders",
+              "key": "3b5817fa"
+            },
+            {
+              "content": "Holding any number of Arbitrum tokens",
+              "key": "38b3c17e"
+            },
+            {
+              "content": "Being a member of the Security Council",
+              "key": "682958f8"
+            }
+          ]
         }
       ]
     },
