@@ -840,6 +840,36 @@
               "key": "d9b11d37"
             }
           ]
+        },
+        {
+          "uuid": "3bcac5b4-fcfe-4e8d-8563-d5351bee7952",
+          "type": "MultipleChoice",
+          "content": "How can DAO members participate in the voting process if they cannot vote directly?",
+          "hint": "",
+          "explanation": "DAO members who cannot vote directly can participate in the voting process by delegating their voting power to another member.",
+          "answerKeys": [
+            "f37bc68c"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "By attending annual DAO meetings",
+              "key": "A"
+            },
+            {
+              "content": "By changing the DAO's constitution",
+              "key": "ef69ae1c"
+            },
+            {
+              "content": "By delegating their voting power to another member",
+              "key": "f37bc68c"
+            },
+            {
+              "content": "By purchasing additional $ARB tokens",
+              "key": "9d7d7a7d"
+            }
+          ]
         }
       ]
     },
