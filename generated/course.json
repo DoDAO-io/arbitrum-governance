@@ -1443,6 +1443,36 @@
               "key": "28425214"
             }
           ]
+        },
+        {
+          "uuid": "87fb8dd2-e9fc-4223-85b3-8a19bb9c658f",
+          "type": "MultipleChoice",
+          "content": "How long do phases in the Arbitrum Foundation Grant Program typically last?",
+          "hint": "",
+          "explanation": "Phases in the Arbitrum Foundation Grant Program typically last around three months.",
+          "answerKeys": [
+            "96495630"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "One month",
+              "key": "A"
+            },
+            {
+              "content": "Three months",
+              "key": "96495630"
+            },
+            {
+              "content": "Six months",
+              "key": "e9699851"
+            },
+            {
+              "content": "One year",
+              "key": "64ce9598"
+            }
+          ]
         }
       ]
     }
