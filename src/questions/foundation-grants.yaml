@@ -1,13 +1,6 @@
 - uuid: e770999e-c8b6-441b-8ad7-03f443556ee7
   type: MultipleChoice
-  content: |-
-    What is the primary goal of the Arbitrum Foundation's Grant Program?
-
-    A) 
-    B) 
-    C) 
-    D) 
-    Correct Answer: B - 
+  content: What is the primary goal of the Arbitrum Foundation's Grant Program?
   hint: ''
   explanation: >-
     The primary goal of the Arbitrum Foundation's Grant Program is to disburse
@@ -18,14 +11,14 @@
   subTopics: []
   difficultyLevel: Medium
   choices:
-    - content: To provide personal financial assistance to individuals
-      key: A
-    - content: To create new cryptocurrencies
-      key: b690338f
-    - content: To invest in unrelated business ventures
-      key: 350daf7a
-    - content: To fund projects contributing to the growth of the Arbitrum ecosystem
-      key: '28425214'
+    - key: A
+      content: To provide personal financial assistance to individuals
+    - key: b690338f
+      content: To create new cryptocurrencies
+    - key: 350daf7a
+      content: To invest in unrelated business ventures
+    - key: '28425214'
+      content: To fund projects contributing to the growth of the Arbitrum ecosystem
 - uuid: 87fb8dd2-e9fc-4223-85b3-8a19bb9c658f
   type: MultipleChoice
   content: How long do phases in the Arbitrum Foundation Grant Program typically last?
