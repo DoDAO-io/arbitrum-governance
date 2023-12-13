@@ -18,3 +18,26 @@
       key: 9233c35b
     - content: 'To act as a proxy for token holders in governance decisions '
       key: 505edf76
+- uuid: c7ab5dbc-3768-4cf4-80ba-7e8dbb362e75
+  type: MultipleChoice
+  content: >-
+    What aspect of governance does a delegate primarily contribute to in the
+    Arbitrum DAO?
+  hint: ''
+  explanation: >-
+    Delegates play a crucial role in contributing to the decentralized
+    decision-making process of the DAO by representing the interests of token
+    holders.
+  answerKeys:
+    - 7661de6b
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: 'Centralization of decision-making '
+      key: A
+    - content: Technical development of the Arbitrum platform
+      key: b6a8a549
+    - content: Decentralized decision-making process
+      key: 7661de6b
+    - content: Financial management of the DAO
+      key: 652d76fc
