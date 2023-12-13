@@ -1288,6 +1288,36 @@
               "key": "1814f7cb"
             }
           ]
+        },
+        {
+          "uuid": "f3a13e77-4091-4a62-a183-b93d4f34354b",
+          "type": "MultipleChoice",
+          "content": "What is a critical aspect of creating a strong delegate platform for the Arbitrum DAO?",
+          "hint": "",
+          "explanation": "A critical aspect of creating a strong delegate platform is engaging with token holders and the community, establishing clear communication channels.",
+          "answerKeys": [
+            "A"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "Engaging with token holders and the community ",
+              "key": "A"
+            },
+            {
+              "content": " High financial investment",
+              "key": "982e7600"
+            },
+            {
+              "content": "Holding a significant amount of $ARB tokens",
+              "key": "215bf9de"
+            },
+            {
+              "content": "Being a technical expert in blockchain",
+              "key": "3b35d0bd"
+            }
+          ]
         }
       ]
     },
