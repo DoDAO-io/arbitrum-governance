@@ -84,3 +84,26 @@
       key: d7447371
     - content: Lifetime financial support
       key: 10a77ec5
+- uuid: c718c706-2947-4d29-a951-6d0dbe7ab877
+  type: MultipleChoice
+  content: >-
+    Which type of application is considered ineligible for the Arbitrum
+    Foundation Grant Program?
+  hint: ''
+  explanation: >-
+    Applications involving projects centered around token or securities
+    issuance, including distributions, creation of new tokens, or exchange
+    listings, are deemed ineligible.
+  answerKeys:
+    - A
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: Projects centered around token or securities issuance
+      key: A
+    - content: Non-profit initiatives
+      key: d820fd21
+    - content: Educational projects
+      key: c4d20b03
+    - content: Environmental sustainability projects
+      key: eb0bc5cd
