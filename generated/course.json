@@ -983,6 +983,36 @@
               "key": "c3813d99"
             }
           ]
+        },
+        {
+          "uuid": "344db566-12b6-4211-a8ca-78b7409429d7",
+          "type": "MultipleChoice",
+          "content": "What benefit does being a delegate in the Arbitrum DAO offer?",
+          "hint": "",
+          "explanation": "Being a delegate offers the benefit of actively participating in the governance of the technology and shaping the future of the protocol.",
+          "answerKeys": [
+            "6c9451fe"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "High financial returns ",
+              "key": "A"
+            },
+            {
+              "content": "Exclusive access to new token launches",
+              "key": "86832336"
+            },
+            {
+              "content": "Ability to actively participate in governance",
+              "key": "6c9451fe"
+            },
+            {
+              "content": "Direct control over the DAO's assets",
+              "key": "85773150"
+            }
+          ]
         }
       ]
     },
