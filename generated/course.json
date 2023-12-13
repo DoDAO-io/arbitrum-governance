@@ -517,6 +517,36 @@
               "key": "f1c0304e"
             }
           ]
+        },
+        {
+          "uuid": "de2e97b7-c110-4817-99ce-e63d73aed2aa",
+          "type": "MultipleChoice",
+          "content": "What is the significance of Security Council elections in the Arbitrum DAO?",
+          "hint": "",
+          "explanation": "The significance of the Security Council elections is to ensure that those responsible for the DAO’s security are chosen democratically by the community, upholding principles of vigilance, integrity, and alignment with DAO values.",
+          "answerKeys": [
+            "5700606f"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "To centralize power within the DAO",
+              "key": "A"
+            },
+            {
+              "content": "To select members for blockchain development",
+              "key": "ffaadcfa"
+            },
+            {
+              "content": "To provide financial benefits to the members",
+              "key": "dc4e501e"
+            },
+            {
+              "content": "To ensure democratic representation and maintain integrity",
+              "key": "5700606f"
+            }
+          ]
         }
       ]
     },
