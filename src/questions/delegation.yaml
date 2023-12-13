@@ -83,3 +83,23 @@
       key: 6c9451fe
     - content: Direct control over the DAO's assets
       key: '85773150'
+- uuid: 5bb3495c-a344-4905-af1e-68bc0371bb23
+  type: MultipleChoice
+  content: What is the first step in becoming a delegate for the Arbitrum DAO?
+  hint: ''
+  explanation: >-
+    The first step in becoming a delegate is understanding what the role
+    entails, including the expectations and responsibilities.
+  answerKeys:
+    - A
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: Understanding the role and responsibilities
+      key: A
+    - content: Purchasing a large amount of $ARB tokens
+      key: 3ea4cfdc
+    - content: Winning a community election
+      key: 2ebbefdc
+    - content: Creating a cryptocurrency wallet
+      key: 968fcff2
