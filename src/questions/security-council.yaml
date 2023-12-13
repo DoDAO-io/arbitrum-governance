@@ -1,0 +1,21 @@
+- uuid: 381e499e-ad65-47e6-a818-79d493ab442e
+  type: MultipleChoice
+  content: What is the primary role of the Security Council in the Arbitrum DAO?
+  hint: ''
+  explanation: >-
+    The Security Council's primary role is to safeguard the Arbitrum ecosystem
+    by managing and mitigating risks, including taking emergency actions when
+    necessary.
+  answerKeys:
+    - e9cc3d82
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: To manage financial transactions
+      key: A
+    - content: To elect DAO members
+      key: 849d55ad
+    - content: To manage and mitigate risks in the Arbitrum ecosystem
+      key: e9cc3d82
+    - content: To create new blockchain technologies
+      key: 0c395cf4
