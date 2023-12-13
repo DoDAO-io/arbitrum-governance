@@ -125,3 +125,26 @@
       key: 215bf9de
     - content: Being a technical expert in blockchain
       key: 3b35d0bd
+- uuid: d3aed77e-972d-44ff-90c5-bfcd8b11f30b
+  type: MultipleChoice
+  content: >-
+    What is necessary to submit an on-chain proposal using Tally in the Arbitrum
+    DAO?
+  hint: ''
+  explanation: >-
+    To submit an on-chain proposal using Tally, the Ethereum wallet must
+    represent at least 1,000,000 tokens, approximately 0.1% of votable tokens in
+    the DAO's ecosystem.
+  answerKeys:
+    - A
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: Possession of at least 1,000,000 tokens
+      key: A
+    - content: Being a member of the Security Council
+      key: 019857da
+    - content: Approval from a majority of DAO members
+      key: e8c2d329
+    - content: A special invitation from the DAO founders
+      key: 9c4c14c2
