@@ -953,6 +953,36 @@
               "key": "652d76fc"
             }
           ]
+        },
+        {
+          "uuid": "a0cdb106-b596-480d-827c-712c482eff64",
+          "type": "MultipleChoice",
+          "content": "How does a token holder assign their voting rights to a delegate in the Arbitrum DAO?",
+          "hint": "",
+          "explanation": "Token holders assign their voting rights to a delegate by willingly transferring these rights, allowing the delegate to vote on their behalf.",
+          "answerKeys": [
+            "2cf5ed8b"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "By transferring their tokens to the delegate",
+              "key": "A"
+            },
+            {
+              "content": "By willingly transferring their voting rights",
+              "key": "2cf5ed8b"
+            },
+            {
+              "content": "Automatically based on token amount",
+              "key": "d048c4c5"
+            },
+            {
+              "content": "Through a legal contract",
+              "key": "c3813d99"
+            }
+          ]
         }
       ]
     },
