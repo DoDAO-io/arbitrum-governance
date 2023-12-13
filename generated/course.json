@@ -344,6 +344,36 @@
               "key": "fc02c0b2"
             }
           ]
+        },
+        {
+          "uuid": "cd9b5bf0-51f5-40ea-876a-d164b6f3ff39",
+          "type": "MultipleChoice",
+          "content": "What represents the highest layer in the Arbitrum stakeholder hierarchy?",
+          "hint": "",
+          "explanation": "In the hierarchy of Arbitrum's stakeholders, the Web3 User Layer, where users interact with decentralized applications (dApps), represents the highest layer.",
+          "answerKeys": [
+            "88c02ab7"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "Web3 App Layer",
+              "key": "A"
+            },
+            {
+              "content": "Layer 2 (L2)",
+              "key": "14a12ad2"
+            },
+            {
+              "content": "Execution Layer (EL)",
+              "key": "55b75534"
+            },
+            {
+              "content": "Web3 User Layer ",
+              "key": "88c02ab7"
+            }
+          ]
         }
       ]
     },
