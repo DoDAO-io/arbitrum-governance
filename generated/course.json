@@ -1563,6 +1563,36 @@
               "key": "eb0bc5cd"
             }
           ]
+        },
+        {
+          "uuid": "c9bdcbf0-f605-4365-b831-dc0041fae457",
+          "type": "MultipleChoice",
+          "content": "What should a grant application for the Arbitrum Foundation include about the project?",
+          "hint": "",
+          "explanation": "The application should include a clear demonstration of how the project addresses critical challenges within the Arbitrum ecosystem.",
+          "answerKeys": [
+            "ce80bd5f"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "A marketing plan for social media",
+              "key": "A"
+            },
+            {
+              "content": "A request for endorsement from a celebrity",
+              "key": "60bd4c9f"
+            },
+            {
+              "content": "A detailed personal biography of the project leader",
+              "key": "1a1e50a5"
+            },
+            {
+              "content": "A demonstration of how the project addresses challenges in the ecosystem",
+              "key": "ce80bd5f"
+            }
+          ]
         }
       ]
     }
