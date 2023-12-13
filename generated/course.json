@@ -1503,6 +1503,36 @@
               "key": "7cf519c8"
             }
           ]
+        },
+        {
+          "uuid": "9f104095-cff0-495c-b89b-cad29696a2ad",
+          "type": "MultipleChoice",
+          "content": "What is a key benefit of the Arbitrum Foundation Grants for recipient projects?",
+          "hint": "",
+          "explanation": "The benefits include tailored funding that aligns with the project's specific needs and inclusion in the Builders group, which connects grant recipients to a community within the Arbitrum ecosystem.",
+          "answerKeys": [
+            "d7447371"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "Automatic entry into the Security Council",
+              "key": "A"
+            },
+            {
+              "content": "Free advertising on television",
+              "key": "6320032b"
+            },
+            {
+              "content": "Tailored funding and community support",
+              "key": "d7447371"
+            },
+            {
+              "content": "Lifetime financial support",
+              "key": "10a77ec5"
+            }
+          ]
         }
       ]
     }
