@@ -487,6 +487,36 @@
               "key": "0c395cf4"
             }
           ]
+        },
+        {
+          "uuid": "a2ddc540-126a-405b-bdec-55478480fbad",
+          "type": "MultipleChoice",
+          "content": "How many members comprise the Security Council of the Arbitrum DAO?",
+          "hint": "",
+          "explanation": "The Security Council is composed of 12 members who are elected democratically by the Arbitrum DAO's members.",
+          "answerKeys": [
+            "6e9d2a3d"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "10",
+              "key": "A"
+            },
+            {
+              "content": "11",
+              "key": "51df62cc"
+            },
+            {
+              "content": "12",
+              "key": "6e9d2a3d"
+            },
+            {
+              "content": "13",
+              "key": "f1c0304e"
+            }
+          ]
         }
       ]
     },
