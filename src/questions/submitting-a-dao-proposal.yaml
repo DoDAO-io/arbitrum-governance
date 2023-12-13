@@ -19,3 +19,25 @@
       key: b57e6394
     - content: To create a new cryptocurrency
       key: eb8413ef
+- uuid: d09120a1-9d77-4940-96ff-9c20dab1e073
+  type: MultipleChoice
+  content: What are Constitutional AIPs in the context of the Arbitrum DAO?
+  hint: ''
+  explanation: >-
+    Constitutional AIPs are significant proposals that have the potential to
+    change the foundational rules and procedures of the Arbitrum ecosystem.
+  answerKeys:
+    - 7f27e895
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: Financial requests for individual projects
+      key: A
+    - content: Proposals related to the daily operations of the DAO
+      key: c24719cc
+    - content: Proposals for small-scale community events
+      key: 3cc1ef75
+    - content: >-
+        Proposals that alter the foundational rules and procedures of the
+        ecosystem
+      key: 7f27e895
