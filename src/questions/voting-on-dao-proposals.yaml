@@ -60,3 +60,26 @@
       key: b6bd6c3a
     - content: Based on the number of $ARB tokens held
       key: 76449f4d
+- uuid: 806276ca-8ec7-429c-a4f2-1e83081cbf12
+  type: MultipleChoice
+  content: >-
+    What is a 'temperature check' in the context of the Arbitrum DAO voting
+    process?
+  hint: ''
+  explanation: >-
+    A temperature check is an initial voting step to measure community interest
+    in a proposed idea or action before it progresses through the governance
+    process.
+  answerKeys:
+    - 754815a3
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: A financial audit of the DAO's funds
+      key: A
+    - content: A selection process for new DAO members
+      key: ef0c194b
+    - content: An initial step to measure community interest in a proposal
+      key: 754815a3
+    - content: A final decision-making vote
+      key: 1682197a
