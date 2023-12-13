@@ -41,3 +41,27 @@
       key: f667db06
     - content: They are used as a standard currency for transactions
       key: a04b693b
+- uuid: 84deb5aa-f558-4437-95f9-224ce151801a
+  type: MultipleChoice
+  content: >-
+    How does the governance power of $ARB token holders manifest in the Arbitrum
+    DAO?
+  hint: ''
+  explanation: >-
+    Voting power in the Arbitrum DAO is proportional to the number of $ARB
+    tokens one holds or controls through delegation.
+  answerKeys:
+    - A
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: Through proportional voting power based on token holdings
+      key: A
+    - content: By allowing token holders to directly control the Ethereum blockchain
+      key: 886d567a
+    - content: >-
+        Through equal voting rights for all members, regardless of token
+        ownership
+      key: efa02b09
+    - content: $ARB tokens do not confer any governance power
+      key: e1b2cd73
