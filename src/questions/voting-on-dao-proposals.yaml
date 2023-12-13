@@ -1,0 +1,21 @@
+- uuid: 3b40b31d-a5ed-477e-baca-2f2714b6bc2b
+  type: MultipleChoice
+  content: What is the primary purpose of voting in the Arbitrum DAO?
+  hint: ''
+  explanation: >-
+    Voting in the Arbitrum DAO allows $ARB governance token holders to have a
+    say in the direction of the DAO's actions, such as proposing amendments and
+    deciding on fund allocations.
+  answerKeys:
+    - 9918467e
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: To elect government officials
+      key: A
+    - content: To decide on the direction of the DAO's actions
+      key: 9918467e
+    - content: To choose new cryptocurrencies for investment
+      key: b1de6ff2
+    - content: To trade governance tokens
+      key: a160c955

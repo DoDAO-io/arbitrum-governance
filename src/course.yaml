@@ -426,6 +426,7 @@ topics:
       of community but also gives members a sense of ownership over the DAO's
       future, as they are directly involved in shaping it.
     explanations: voting-on-dao-proposals.yaml
+    questions: voting-on-dao-proposals.yaml
   - key: delegation
     title: Delegation
     details: >-
