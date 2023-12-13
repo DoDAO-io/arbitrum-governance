@@ -374,6 +374,36 @@
               "key": "88c02ab7"
             }
           ]
+        },
+        {
+          "uuid": "0c724a8f-9556-4357-90c7-d74f0aa4c8f6",
+          "type": "MultipleChoice",
+          "content": "How can $ARB token holders participate in the Arbitrum DAO's governance?",
+          "hint": "",
+          "explanation": "$ARB token holders can participate in the Arbitrum DAO's governance either by directly voting on DAO proposals or by delegating their voting power to someone else.",
+          "answerKeys": [
+            "453adbfa"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "By automatically receiving governance rights without any action",
+              "key": "A"
+            },
+            {
+              "content": "Only by being part of the Security Council",
+              "key": "bdd0d3a2"
+            },
+            {
+              "content": "Through direct voting or delegating their voting power",
+              "key": "453adbfa"
+            },
+            {
+              "content": "By mining new $ARB tokens",
+              "key": "95eea7bd"
+            }
+          ]
         }
       ]
     },
