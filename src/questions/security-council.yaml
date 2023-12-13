@@ -80,3 +80,24 @@
       key: c36c4cc1
     - content: Annually
       key: eb7772de
+- uuid: 0c9dba94-b51b-4147-92d7-e6c6bee10d76
+  type: MultipleChoice
+  content: >-
+    What is a requirement for candidacy in the Security Council of the Arbitrum
+    DAO?
+  hint: ''
+  explanation: >-
+    Candidates for the Security Council must belong to the Arbitrum DAO and need
+    backing from holders of at least 0.2% of votable tokens.
+  answerKeys: []
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: Owning a large amount of cryptocurrency
+      key: A
+    - content: Being a member of the Arbitrum DAO with backing from token holders
+      key: af67a290
+    - content: 'Having a background in blockchain development '
+      key: f73a59cd
+    - content: Being a celebrity or public figure
+      key: 2d72cc57
