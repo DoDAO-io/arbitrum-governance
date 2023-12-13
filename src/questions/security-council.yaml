@@ -61,3 +61,22 @@
       key: dc4e501e
     - content: To ensure democratic representation and maintain integrity
       key: 5700606f
+- uuid: 9169f3c6-26db-4ab6-b6b8-cad60fbb7c6d
+  type: MultipleChoice
+  content: How often are elections held for the Security Council in the Arbitrum DAO?
+  hint: ''
+  explanation: >-
+    Elections for the Security Council are held biannually, with members
+    typically serving for a full year.
+  answerKeys: []
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: Every three years
+      key: A
+    - content: Every five years
+      key: 2520e9ba
+    - content: Biannually
+      key: c36c4cc1
+    - content: Annually
+      key: eb7772de
