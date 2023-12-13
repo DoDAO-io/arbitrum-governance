@@ -284,6 +284,36 @@
               "key": "e1b2cd73"
             }
           ]
+        },
+        {
+          "uuid": "a93ba0f7-b2f6-499a-9182-4f087e1bad1d",
+          "type": "MultipleChoice",
+          "content": "What distinguishes $ARB tokens from $ETH?",
+          "hint": "",
+          "explanation": "A key difference is that $ARB is a governance token for the Arbitrum ecosystem, enabling holders to participate in governance, whereas holding $ETH does not provide governance power in Ethereum's protocol.",
+          "answerKeys": [
+            "8c242208"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "$ARB is a transactional token, while $ETH is a governance token",
+              "key": "A"
+            },
+            {
+              "content": "Holding $ARB provides governance power in Arbitrum, unlike holding $ETH",
+              "key": "8c242208"
+            },
+            {
+              "content": "$ARB and $ETH have no significant differences",
+              "key": "fd1aa7ed"
+            },
+            {
+              "content": "$ARB is used to pay transaction fees on Ethereum",
+              "key": "48196151"
+            }
+          ]
         }
       ]
     },
