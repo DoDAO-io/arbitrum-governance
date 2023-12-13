@@ -1348,6 +1348,36 @@
               "key": "9c4c14c2"
             }
           ]
+        },
+        {
+          "uuid": "474fc25e-4f97-43da-9079-202dd1aa4aac",
+          "type": "MultipleChoice",
+          "content": "What is the first phase in the lifecycle of an Arbitrum Improvement Proposal (AIP)?",
+          "hint": "",
+          "explanation": "The first phase in the lifecycle of an AIP is the Temperature Check, where initial feedback is gathered on the Arbitrum DAO governance forum, and a Snapshot poll is used to measure community interest.",
+          "answerKeys": [
+            "6f18353f"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "Formal AIP and Call for Voting",
+              "key": "A"
+            },
+            {
+              "content": "Temperature Check",
+              "key": "6f18353f"
+            },
+            {
+              "content": "On-chain DAO Vote",
+              "key": "7627ab1e"
+            },
+            {
+              "content": "L2 Waiting Period",
+              "key": "aaf25bfb"
+            }
+          ]
         }
       ]
     },
