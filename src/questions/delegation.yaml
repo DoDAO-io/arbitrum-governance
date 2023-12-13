@@ -124,3 +124,26 @@
       key: ff6d8d4e
     - content: By sending an email request to the DAO
       key: d27e3d08
+- uuid: cfc06f2a-2452-4114-a5ff-e1446c87ff10
+  type: MultipleChoice
+  content: >-
+    What is an essential aspect of building a strong delegate platform in the
+    Arbitrum DAO?
+  hint: ''
+  explanation: >-
+    An essential aspect of building a strong delegate platform is establishing
+    and maintaining clear communication channels with token holders to build
+    trust and effectively represent their interests.
+  answerKeys:
+    - A
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: Establishing clear communication channels with token holders
+      key: A
+    - content: Financial investment in the DAO
+      key: 88c56666
+    - content: Holding a certain number of tokens
+      key: a560dbdf
+    - content: Being a member of the Arbitrum development team
+      key: 13d9294c
