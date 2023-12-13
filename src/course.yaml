@@ -662,6 +662,7 @@ topics:
       opportunities for growth and networking to sustain and expand project
       success beyond the grant period.
     explanations: foundation-grants.yaml
+    questions: foundation-grants.yaml
 courseAdmins:
   - '0x34d014758297c00fea49935fce172677904d51ef'
   - '0x2a6af0619be90d129ab0d70c10e25c097b6ec67d'

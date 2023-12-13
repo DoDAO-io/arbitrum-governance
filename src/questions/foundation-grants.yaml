@@ -1,0 +1,28 @@
+- uuid: e770999e-c8b6-441b-8ad7-03f443556ee7
+  type: MultipleChoice
+  content: |-
+    What is the primary goal of the Arbitrum Foundation's Grant Program?
+
+    A) 
+    B) 
+    C) 
+    D) 
+    Correct Answer: B - 
+  hint: ''
+  explanation: >-
+    The primary goal of the Arbitrum Foundation's Grant Program is to disburse
+    funds to projects that contribute significantly to the development and
+    expansion of the Arbitrum ecosystem.
+  answerKeys:
+    - '28425214'
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: To provide personal financial assistance to individuals
+      key: A
+    - content: To create new cryptocurrencies
+      key: b690338f
+    - content: To invest in unrelated business ventures
+      key: 350daf7a
+    - content: To fund projects contributing to the growth of the Arbitrum ecosystem
+      key: '28425214'
