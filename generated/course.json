@@ -314,6 +314,36 @@
               "key": "48196151"
             }
           ]
+        },
+        {
+          "uuid": "8ea5f6d4-3f21-4955-8d55-9f58729dd459",
+          "type": "MultipleChoice",
+          "content": "What is the responsibility of the Security Council within the Arbitrum DAO?",
+          "hint": "",
+          "explanation": "The Security Council, elected by the members of the Arbitrum DAO, is responsible for addressing urgent security matters to ensure the safety and reliability of the ecosystem.",
+          "answerKeys": [
+            "fc02c0b2"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "To oversee daily transaction processing on Arbitrum",
+              "key": "A"
+            },
+            {
+              "content": "To control the distribution of $ARB tokens",
+              "key": "2b1f7110"
+            },
+            {
+              "content": "To manage all financial transactions in the network",
+              "key": "b45c1d58"
+            },
+            {
+              "content": "To address urgent security matters and ensure ecosystem safety",
+              "key": "fc02c0b2"
+            }
+          ]
         }
       ]
     },
