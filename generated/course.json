@@ -720,6 +720,36 @@
               "key": "a160c955"
             }
           ]
+        },
+        {
+          "uuid": "866f0bfd-8809-42d9-b17e-897828bea0df",
+          "type": "MultipleChoice",
+          "content": "What does decentralized voting in the Arbitrum DAO ensure?",
+          "hint": "",
+          "explanation": "Decentralized voting in the Arbitrum DAO ensures that the power dynamics remain balanced and distributed across its member base, rather than being concentrated in the hands of a few.",
+          "answerKeys": [
+            "A"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "Distribution of power across the member base",
+              "key": "A"
+            },
+            {
+              "content": "Centralization of power in the hands of a few",
+              "key": "3e5e9480"
+            },
+            {
+              "content": "Automatic decision-making without community input",
+              "key": "c1da30a1"
+            },
+            {
+              "content": "Exclusive decision-making by the Arbitrum founders",
+              "key": "3bf63c79"
+            }
+          ]
         }
       ]
     },
