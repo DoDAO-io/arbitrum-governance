@@ -1258,6 +1258,36 @@
               "key": "152ad819"
             }
           ]
+        },
+        {
+          "uuid": "09eccfd3-3576-4cfe-96ab-a69e33360a5f",
+          "type": "MultipleChoice",
+          "content": "How are on-chain votes submitted in the Arbitrum DAO?",
+          "hint": "",
+          "explanation": "On-chain votes in the Arbitrum DAO are submitted using Tally, a governance platform.",
+          "answerKeys": [
+            "9167c5e4"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "Through a public community forum",
+              "key": "A"
+            },
+            {
+              "content": "Via email to the DAO",
+              "key": "ef68892a"
+            },
+            {
+              "content": "Using Tally",
+              "key": "9167c5e4"
+            },
+            {
+              "content": "On a social media platform",
+              "key": "1814f7cb"
+            }
+          ]
         }
       ]
     },
