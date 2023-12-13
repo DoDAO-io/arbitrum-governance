@@ -810,6 +810,36 @@
               "key": "1682197a"
             }
           ]
+        },
+        {
+          "uuid": "df97c9c4-35e1-4c41-bdd6-a32c18bbec26",
+          "type": "MultipleChoice",
+          "content": "What is required to initiate an on-chain vote in the Arbitrum DAO?",
+          "hint": "",
+          "explanation": "To initiate an on-chain vote in the Arbitrum DAO, a member must hold at least 1,000,000 votable tokens.",
+          "answerKeys": [
+            "f735ceb5"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "Membership in the Security Council",
+              "key": "A"
+            },
+            {
+              "content": "Possession of at least 1,000,000 votable tokens",
+              "key": "f735ceb5"
+            },
+            {
+              "content": "Approval from all DAO members",
+              "key": "17c9da63"
+            },
+            {
+              "content": "A special invitation from the DAO founders",
+              "key": "d9b11d37"
+            }
+          ]
         }
       ]
     },
