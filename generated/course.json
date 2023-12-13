@@ -603,6 +603,36 @@
               "key": "2d72cc57"
             }
           ]
+        },
+        {
+          "uuid": "f0a8d5c5-6af0-4f8a-abf2-cb1d1559f36c",
+          "type": "MultipleChoice",
+          "content": "Can Security Council members be removed from their position in the Arbitrum DAO?",
+          "hint": "",
+          "explanation": "A Security Council member can be removed if there is sufficient community support in a vote or if a majority of other Council members vote for their removal.",
+          "answerKeys": [
+            "b5ea2432"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "No, members serve for life",
+              "key": "A"
+            },
+            {
+              "content": "Only if they resign voluntarily",
+              "key": "cbf329c9"
+            },
+            {
+              "content": "Yes, through a community vote or a vote by other Council members ",
+              "key": "b5ea2432"
+            },
+            {
+              "content": "They can only be removed by the creators of Arbitrum",
+              "key": "12347f3d"
+            }
+          ]
         }
       ]
     },
