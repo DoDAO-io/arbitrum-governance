@@ -497,6 +497,7 @@ topics:
       building a strong community. Active governance participation can foster a
       sense of ownership and collective effort among token holders.
     explanations: delegation.yaml
+    questions: delegation.yaml
   - key: submitting-a-dao-proposal
     title: Submitting a DAO Proposal
     details: >-

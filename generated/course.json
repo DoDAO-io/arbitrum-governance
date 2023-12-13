@@ -893,7 +893,38 @@
       ],
       "readings": [],
       "summaries": [],
-      "questions": []
+      "questions": [
+        {
+          "uuid": "89d991bb-400f-4b7b-89a2-aa4d886a85bf",
+          "type": "MultipleChoice",
+          "content": "What is the main function of a delegate in the Arbitrum DAO?",
+          "hint": "",
+          "explanation": "A delegate in the Arbitrum DAO acts as a proxy for token holders, voting on their behalf in the governance process.",
+          "answerKeys": [
+            "505edf76"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "To trade governance tokens",
+              "key": "A"
+            },
+            {
+              "content": "To create new blockchain technologies",
+              "key": "1627d7fc"
+            },
+            {
+              "content": "To manage the DAO's financial transactions",
+              "key": "9233c35b"
+            },
+            {
+              "content": "To act as a proxy for token holders in governance decisions ",
+              "key": "505edf76"
+            }
+          ]
+        }
+      ]
     },
     {
       "key": "submitting-a-dao-proposal",
