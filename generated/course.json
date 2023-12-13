@@ -1473,6 +1473,36 @@
               "key": "64ce9598"
             }
           ]
+        },
+        {
+          "uuid": "a66e1947-920a-4648-ad61-764297787453",
+          "type": "MultipleChoice",
+          "content": "What type of projects are eligible for the Arbitrum Foundation Grant Program?",
+          "hint": "",
+          "explanation": "The grant program is targeted at projects that contribute to, assist with, or support the Arbitrum ecosystem.",
+          "answerKeys": [
+            "6a8228b7"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "Any type of blockchain project",
+              "key": "A"
+            },
+            {
+              "content": "Projects that support the Arbitrum ecosystem",
+              "key": "6a8228b7"
+            },
+            {
+              "content": "Projects unrelated to blockchain technology",
+              "key": "40777b82"
+            },
+            {
+              "content": "Only non-profit projects",
+              "key": "7cf519c8"
+            }
+          ]
         }
       ]
     }
