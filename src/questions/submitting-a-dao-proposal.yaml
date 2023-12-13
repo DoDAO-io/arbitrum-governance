@@ -61,3 +61,25 @@
       key: 38b3c17e
     - content: Being a member of the Security Council
       key: 682958f8
+- uuid: 703552c8-4c15-45f0-a562-90d2f17ef244
+  type: MultipleChoice
+  content: >-
+    What is the first step in structuring an Arbitrum Improvement Proposal
+    (AIP)?
+  hint: ''
+  explanation: >-
+    The first step in structuring an AIP is to provide an abstract, offering a
+    concise summary of the proposal in a few sentences.
+  answerKeys:
+    - 23a3f36f
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: ' Describing the steps to implement'
+      key: A
+    - content: Outlining the timeline
+      key: 767a795e
+    - content: Providing an abstract of the proposal
+      key: 23a3f36f
+    - content: Listing the overall cost
+      key: 152ad819
