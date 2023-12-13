@@ -633,6 +633,34 @@
               "key": "12347f3d"
             }
           ]
+        },
+        {
+          "uuid": "8c78db57-2858-40a8-82d5-a014777daf4c",
+          "type": "MultipleChoice",
+          "content": "What aspect of the Security Council elections can be amended by DAO members?",
+          "hint": "",
+          "explanation": "DAO members can amend the election rules for the Security Council, but changes cannot be made during an ongoing election.",
+          "answerKeys": [],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "Election rules, except during an ongoing election",
+              "key": "A"
+            },
+            {
+              "content": "The duration of terms ",
+              "key": "80f5694e"
+            },
+            {
+              "content": "The number of Council members",
+              "key": "2c3abb8f"
+            },
+            {
+              "content": "The removal of the need for elections",
+              "key": "31bd7532"
+            }
+          ]
         }
       ]
     },
