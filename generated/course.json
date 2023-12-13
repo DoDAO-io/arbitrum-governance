@@ -1138,7 +1138,38 @@
       ],
       "readings": [],
       "summaries": [],
-      "questions": []
+      "questions": [
+        {
+          "uuid": "eb96b2e0-4d1e-4832-9301-90c610647a20",
+          "type": "MultipleChoice",
+          "content": "What is the primary purpose of submitting a proposal in the Arbitrum DAO?",
+          "hint": "",
+          "explanation": "The primary purpose of submitting a proposal in the Arbitrum DAO is to put forward formalized suggestions for making changes or taking specific actions within the DAO's ecosystem.",
+          "answerKeys": [
+            "b0663509"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "To request financial investment",
+              "key": "A"
+            },
+            {
+              "content": "To make changes or take specific actions within the DAO's ecosystem",
+              "key": "b0663509"
+            },
+            {
+              "content": "To elect DAO officials",
+              "key": "b57e6394"
+            },
+            {
+              "content": "To create a new cryptocurrency",
+              "key": "eb8413ef"
+            }
+          ]
+        }
+      ]
     },
     {
       "key": "foundation-grants",

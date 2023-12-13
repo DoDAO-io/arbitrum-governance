@@ -582,6 +582,7 @@ topics:
       votes to a delegate with enough tokens. The delegate must have the
       capability and willingness to create a proposal on your behalf.
     explanations: submitting-a-dao-proposal.yaml
+    questions: submitting-a-dao-proposal.yaml
   - key: foundation-grants
     title: Foundation Grants
     details: >-
