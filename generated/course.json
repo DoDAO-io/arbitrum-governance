@@ -1043,6 +1043,36 @@
               "key": "968fcff2"
             }
           ]
+        },
+        {
+          "uuid": "65eb61be-58df-4465-8293-d4ce83cc4d72",
+          "type": "MultipleChoice",
+          "content": "How can a token holder delegate their voting power in the Arbitrum DAO?",
+          "hint": "",
+          "explanation": "A token holder can delegate their voting power in the Arbitrum DAO by using Tally, a governance platform, to select a delegate and confirm the delegation.",
+          "answerKeys": [
+            "ff6d8d4e"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "By attending DAO meetings ",
+              "key": "A"
+            },
+            {
+              "content": "Through a public vote",
+              "key": "2a07f417"
+            },
+            {
+              "content": "Using Tally to delegate their voting power",
+              "key": "ff6d8d4e"
+            },
+            {
+              "content": "By sending an email request to the DAO",
+              "key": "d27e3d08"
+            }
+          ]
         }
       ]
     },
